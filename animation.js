@@ -8,7 +8,6 @@ function displayDiv(id) {
   } else {
     div.style.display = "none";
   }
-  
 }
 
 

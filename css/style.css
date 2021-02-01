@@ -28,9 +28,6 @@ header{
     margin-top: 50px;
 }
 
-.button-primary{
-    margin-left: 200px;
-}
 
 .gb{
     background-color: white;
@@ -44,3 +41,5 @@ footer{
     display: flex;
     justify-content: center;
 }
+
+
