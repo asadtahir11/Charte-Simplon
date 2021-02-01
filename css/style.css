@@ -28,7 +28,6 @@ header{
     margin-top: 50px;
 }
 
-
 .gb{
     background-color: white;
     margin-bottom: 3rem;
@@ -42,4 +41,11 @@ footer{
     justify-content: center;
 }
 
+/*pour pour grand que tablette*/
+
+@media (min-width: 750px) {
+    .button-primary{
+      margin-left: 200px;
+    }
+  }
 
